@@ -34,16 +34,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/184020568_177387994261220_2638173737104877267_n.jpg",
+          "img": "/img/uploads/leo-chu.webp",
           "alt": "Teste"
         },
         {
-          "img": "/img/uploads/123287066_1511709702349805_2980308431889159916_n.jpg",
+          "img": "/img/uploads/diogo-barbosa.webp",
           "link": "",
           "alt": "Teste"
         },
         {
-          "img": "/img/uploads/272701470_489477532520357_2710809620106909048_n.jpg",
+          "img": "/img/uploads/mota.webp",
           "alt": "2"
         }
       ]
