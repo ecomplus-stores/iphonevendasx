@@ -7,17 +7,17 @@
   },
   "installments": {
     "show": true,
-    "text": "Referência no mercado da linha Apple",
-    "title": "Realizamos sonhos"
+    "text": "",
+    "title": "Realizamos sonhos - Referência no mercado da linha Apple"
   },
   "exchange": {
-    "show": false,
-    "text": "Profissionais capacitados com conhecimento, conteúdo, transparência e dedicação",
-    "title": "Visite nossa Loja"
+    "show": true,
+    "text": "",
+    "title": "Visite nosso escritório - Barra Shopping Sul"
   },
   "promo": {
     "show": true,
-    "text": "Aceitamos seus aparelhos como parte do pagamento",
-    "title": "Faça Upgrade"
+    "text": "",
+    "title": "Faça Upgrade - Aceitamos seus aparelhos como parte do pagamento"
   }
 }
