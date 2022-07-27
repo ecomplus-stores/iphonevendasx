@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Realizamos sonhos",
-    "link": ""
+    "text": "Referência no Mundo Apple",
+    "link": "",
+    "background": "#1f16c2",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
