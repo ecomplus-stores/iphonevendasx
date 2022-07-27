@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Realizamos sonhos",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": false
   },
   "desktop_megamenu": false,
