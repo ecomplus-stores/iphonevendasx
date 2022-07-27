@@ -1,18 +1,23 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "",
+    "link": "",
+    "title": "Enviamos para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Referência no mercado da linha Apple",
+    "title": "Realizamos sonhos"
   },
   "exchange": {
-    "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": false,
+    "text": "Profissionais capacitados com conhecimento, conteúdo, transparência e dedicação",
+    "title": "Visite nossa Loja"
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Aceitamos seus aparelhos como parte do pagamento",
+    "title": "Faça Upgrade"
   }
 }
