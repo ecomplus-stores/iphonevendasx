@@ -11,8 +11,12 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 0,
+    "featured": [
+      "/linha-apple?Linha Apple",
+      "/iphones---novos?iPhones - Novos",
+      "/iphones---semi-novos?iPhones - Semi Novos"
+    ],
+    "random": 3,
     "full_width": false
   },
   "desktop_megamenu": true,
