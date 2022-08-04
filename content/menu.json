@@ -1,6 +1,9 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "iphones---novos",
+    "iphones---semi-novos"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
