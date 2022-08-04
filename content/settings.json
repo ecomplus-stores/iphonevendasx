@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#ffffff",
   "theme": {
-    "bootswatch": "yeti",
+    "bootswatch": "cerulean",
     "custom": "clean-dark"
   },
   "bg_color": "#ffffff",
@@ -14,9 +14,9 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Montserrat",
   "favicon": "/img/uploads/271582655_4442826719178644_8602659884504487496_n.jpg",
-  "icons_font": "bootstrap-icons",
+  "icons_font": "tabler-icons",
   "country_code": "BR",
   "secondary_color": "#000000",
   "icon": "/img/uploads/271582655_4442826719178644_8602659884504487496_n.jpg",
