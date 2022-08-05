@@ -1,1 +1,4 @@
 // Add your custom CSS here.
+.info-bar__item .i-percent::before {
+    content: url(/img/uploads/local.png);
+}
