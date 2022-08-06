@@ -1,7 +1,7 @@
 {
   "domain": "iphonevendasx.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#0073ff",
   "theme": {
     "bootswatch": "journal",
     "custom": "clean-dark"
