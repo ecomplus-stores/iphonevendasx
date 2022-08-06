@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#ffffff",
   "theme": {
-    "bootswatch": "cerulean",
-    "custom": "clean-dark"
+    "bootswatch": "cyborg",
+    "custom": "niche-game"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/iphonevendasx",
