@@ -34,6 +34,9 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/bitelo.webp"
+        },
+        {
           "img": "/img/uploads/leo-chu.webp",
           "alt": "Teste"
         },
@@ -45,9 +48,6 @@
         {
           "img": "/img/uploads/mota.webp",
           "alt": "2"
-        },
-        {
-          "img": "/img/uploads/bitelo.webp"
         }
       ]
     },
