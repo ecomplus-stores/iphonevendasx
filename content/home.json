@@ -34,8 +34,8 @@
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
-      "sort": "name",
-      "autoplay": 0
+      "sort": null,
+      "autoplay": 1000
     },
     {
       "type": "banners-grid",
