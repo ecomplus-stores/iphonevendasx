@@ -31,6 +31,13 @@
       "sort": "news"
     },
     {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 0
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
