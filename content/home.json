@@ -31,6 +31,14 @@
       "sort": "news"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "62e15743eb8591121699cea1:categories:Linha Apple:/linha-apple",
+      "sort": "news"
+    },
+    {
       "type": "brands-carousel",
       "limit": 24,
       "offset": 0,
