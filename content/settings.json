@@ -1,7 +1,7 @@
 {
   "domain": "iphonevendasx.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#0044da",
   "theme": {
     "bootswatch": "cerulean",
     "custom": "clean-dark"
