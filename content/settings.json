@@ -6,7 +6,7 @@
     "bootswatch": "_",
     "custom": "clean-dark"
   },
-  "bg_color": "#f2f2f2",
+  "bg_color": "#000000",
   "repository": "ecomplus-stores/iphonevendasx",
   "logo": "/img/uploads/ativo-111.png",
   "name": "iPhoneVendasX",
