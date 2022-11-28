@@ -1,7 +1,7 @@
 {
   "domain": "iphonevendasx.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ffffff",
+  "primary_color": "#1000ff",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "clean-dark"
@@ -14,7 +14,7 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "Montserrat",
+  "font_family": "Roboto",
   "favicon": "/img/uploads/271582655_4442826719178644_8602659884504487496_n.jpg",
   "icons_font": "_",
   "country_code": "BR",
