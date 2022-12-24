@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.68c803ab33c7d9ebe2d8f4945268a2a8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.41c4c84b0d99c11ed4bf065624db8e0b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.59e5e26fc6cfd50090b352906368b968.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.d0a3841e55d60c0cea1dd799084fcaa9.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.0fa4f681f39ed6536b90cb425fbae980.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "iPhoneVendasX",
+  "short_name": "iphonevendasx",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "\"Criamos um padrão de atendimentos. Somos referência no mercado linha Apple, Atendimento especializado presencial com conhecimento, conteúdo, transparência e dedicação. Vendemos linha Apple novo e semi novo.\"\n",
+  "background_color": "#000000",
+  "theme_color": "#006bff"
+}
