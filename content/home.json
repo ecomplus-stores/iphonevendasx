@@ -47,11 +47,11 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/bitelo.webp"
+          "img": "/img/uploads/andre-henrique.webp",
+          "alt": "Teste"
         },
         {
-          "img": "/img/uploads/leo-chu.webp",
-          "alt": "Teste"
+          "img": "/img/uploads/bitelo.webp"
         },
         {
           "img": "/img/uploads/diogo-barbosa.webp",
