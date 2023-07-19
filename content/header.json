@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Referência no Mundo Apple - É OS GURI DOS IPHONES",
+    "text": "Referência no Mundo Apple - E US GURI DOS IPHONES",
     "link": "",
     "background": "#1f16c2",
     "color": "#ffffff"
@@ -20,5 +20,7 @@
     "full_width": true
   },
   "desktop_megamenu": false,
-  "search_input": true
+  "search_input": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": false
 }
