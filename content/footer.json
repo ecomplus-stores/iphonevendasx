@@ -26,6 +26,14 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/nortonseal-removebg-preview-1-.webp",
+      "link": "https://safeweb.norton.com/report/show?url=https%3A%2F%2Fwww.iphonevendasx.com.br%2F"
+    },
+    {
+      "src": "/img/uploads/google-site-seguro.png",
+      "link": "https://transparencyreport.google.com/safe-browsing/search?url=https:%2F%2Fwww.iphonevendasx.com.br%2F"
     }
   ],
   "payment_methods": {
