@@ -17,3 +17,9 @@
         max-height: 120px;
     }
 }
+@media(max-width: 576px) {
+    #whatapp-manual {
+        right: unset !important;
+        left: 40px !important;
+    }
+}
